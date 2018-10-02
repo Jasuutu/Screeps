@@ -11,3 +11,7 @@ The goal of this project is to try to be able to be able to have a fully coordin
         * Room Overloard
             * Goal Based Overlords
                 * Individuals
+
+## Goal Based Overlord types
+
+## Individuals
